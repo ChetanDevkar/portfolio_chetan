@@ -6,7 +6,7 @@ const projects = [
 
 	{
 		title: "Storynet",
-		image: "/images/storynetlogo.jpg",
+		image: "/images/storynet.png",
 		description:"Storynet: Inspiring stories of Indian Heroes. Share your real-life story to inspire others! A community platform for motivation, courage, and national pride.",
 		details: `A scalable e-commerce platform with product search, shopping cart, and secure payment integration. Built using React for the frontend and Node.js/Express for the backend, with MongoDB as the database. The platform supports user authentication, order management, and admin dashboards. I implemented responsive UI, RESTful APIs, and integrated Stripe for payments.`,
 		tech: ["React", "Node.js", "html "," CSS", "SQL", "JavaScript", ],
