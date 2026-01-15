@@ -8,9 +8,7 @@ const projects = [
 		title: "Storynet",
 		image: "/images/storynet.png",
 		description:"Storynet: Inspiring stories of Indian Heroes. Share your real-life story to inspire others! A community platform for motivation, courage, and national pride.",
-		details: ` StoryNet is a full-stack web application built with HTML, CSS, and JavaScript for the frontend to create responsive, interactive user interfaces featuring dynamic story feeds, 
-		rich text editors with multimedia support. The backend leverages Node.js to power server-side logic, including secure API endpoints for user authentication, story creation/editing, likes, comments, and shares that foster community engagement. MySQL serves as the relational database, efficiently storing and querying user profiles, 
-		story content, metadata, and interactions to support the platform's real-time features and scalable content management..`,
+		details: ` StoryNet is a full-stack web application built with HTML, CSS, and JavaScript for the frontend to create responsive, interactive user interfaces featuring dynamic story feeds, rich text editors with multimedia support. The backend leverages Node.js to power server-side logic, including secure API endpoints for user authentication, story creation/editing, likes, comments, and shares that foster community engagement. MySQL serves as the relational database, efficiently storing and querying user profiles, story content, metadata, and interactions to support the platform's real-time features and scalable content management.`,
 		tech: ["React", "Node.js", "html "," CSS", "SQL", "JavaScript", ],
 		features: [
 			"User story creation and editing",
