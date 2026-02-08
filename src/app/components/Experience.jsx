@@ -2,7 +2,24 @@ import { useState } from "react";
 
 export default function ExperienceSection() {
   const experiences = [
-  
+
+
+    {
+    company: "YUVAINTERN (online Internship)",
+    role: " Junior Full-Stack Developer ",
+    duration: "17 Jan 2026 – 5 Feb 2026",
+    description:
+      "Successfully completed an internship as a Junior Full Stack Developer Intern at YuvaIntern, where I worked on designing, developing, and maintaining web applications. Gained hands-on experience in front-end and back-end development, building responsive user interfaces, integrating APIs, and writing clean, maintainable code while collaborating in a professional development environment.",
+    
+    
+    highlights: [
+      " Developed and maintained full-stack web applications using HTML, CSS, JavaScript, and back-end technologies. ",
+      " Implemented responsive UI components and ensured cross-browser compatibility . ",
+      " Worked on backend logic, API integration, and database operations.",
+      " Followed best practices for code structure, debugging, and optimization.",
+      " Collaborated with a team, participated in code reviews, and contributed to project deliverables on time.",
+    ],
+  },
   {
     company: "TATA (online Internship)",
     role: "Data Analyst Intern",
